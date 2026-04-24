@@ -23,6 +23,6 @@ Analyse de la performance de campagnes marketing sur plusieurs canaux (Google Ad
 - Optimisation de la répartition budgétaire
 - Mise en évidence des campagnes performantes
 
-## 📂 Fichiers
+## Fichiers
 - `dashboard/` : fichier Power BI (.pbix)
 - `images/` : captures
