@@ -25,4 +25,4 @@ Analyse de la performance de campagnes marketing sur plusieurs canaux (Google Ad
 
 ## Fichiers
 - `dashboard/` : fichier Power BI (.pbix)
-- `images/` : captures
+- `images/` : captures de dashboards
