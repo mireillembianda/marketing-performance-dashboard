@@ -1,1 +1,0 @@
-Captures des dashboards
